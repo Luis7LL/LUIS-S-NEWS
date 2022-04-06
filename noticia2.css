@@ -1,0 +1,39 @@
+body{
+    background-color: #eee;
+    background-color: none;
+}
+main img{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+main h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   line-height: 30px;
+   text-align: center;
+}
+main h2{
+    line-height: 40px;
+    font-size: 30px;
+}
+main p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: newspaper;
+}
+div img{
+    width: 550px;
+    height: 350px;  
+}
+footer{
+    width: 100%;
+    clear: both;
+    padding: 20px;
+    background-color: #6666;
+}
+footer p{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+}

@@ -1,0 +1,42 @@
+body{
+    background-color: #eee;
+    background-color: none;
+}
+main img{
+    width: 450px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+div img{
+    float: left;
+}
+main h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   line-height: 40px;
+   text-align: center;
+   font-size: 40px;
+}
+main p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: newspaper;
+}
+main div p{
+    text-align: right;
+    font-style: italic;
+}
+main br{
+    text-align: right;
+}
+footer{
+    width: 100%;
+    clear: both;
+    padding: 20px;
+    background-color: #6666;
+}
+footer p{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+}
